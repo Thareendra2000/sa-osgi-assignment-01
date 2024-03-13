@@ -1,4 +1,4 @@
-package myposdb;
+package librarydb;
 
 import java.sql.Connection;
 
